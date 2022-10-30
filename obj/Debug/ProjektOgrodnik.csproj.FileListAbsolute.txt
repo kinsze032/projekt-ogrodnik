@@ -1,0 +1,31 @@
+C:\Users\Franki\Desktop\ProjektOgrodnik\bin\Debug\ProjektOgrodnik.exe.config
+C:\Users\Franki\Desktop\ProjektOgrodnik\bin\Debug\ProjektOgrodnik.exe
+C:\Users\Franki\Desktop\ProjektOgrodnik\bin\Debug\ProjektOgrodnik.pdb
+C:\Users\Franki\Desktop\ProjektOgrodnik\obj\Debug\ProjektOgrodnik.csprojAssemblyReference.cache
+C:\Users\Franki\Desktop\ProjektOgrodnik\obj\Debug\ProjektOgrodnik.exe
+C:\Users\Franki\Desktop\ProjektOgrodnik\obj\Debug\ProjektOgrodnik.pdb
+C:\Users\Franki\Desktop\Ogrodnik\ProjektOgrodnik\bin\Debug\ProjektOgrodnik.exe.config
+C:\Users\Franki\Desktop\Ogrodnik\ProjektOgrodnik\bin\Debug\ProjektOgrodnik.exe
+C:\Users\Franki\Desktop\Ogrodnik\ProjektOgrodnik\bin\Debug\ProjektOgrodnik.pdb
+C:\Users\Franki\Desktop\Ogrodnik\ProjektOgrodnik\obj\Debug\ProjektOgrodnik.csprojAssemblyReference.cache
+C:\Users\Franki\Desktop\Ogrodnik\ProjektOgrodnik\obj\Debug\ProjektOgrodnik.exe
+C:\Users\Franki\Desktop\Ogrodnik\ProjektOgrodnik\obj\Debug\ProjektOgrodnik.pdb
+C:\Users\l_kub\Downloads\OgrodnikKSz\OgrodnikKSz\ProjektOgrodnik\bin\Debug\ProjektOgrodnik.exe.config
+C:\Users\l_kub\Downloads\OgrodnikKSz\OgrodnikKSz\ProjektOgrodnik\bin\Debug\ProjektOgrodnik.exe
+C:\Users\l_kub\Downloads\OgrodnikKSz\OgrodnikKSz\ProjektOgrodnik\bin\Debug\ProjektOgrodnik.pdb
+C:\Users\l_kub\Downloads\OgrodnikKSz\OgrodnikKSz\ProjektOgrodnik\obj\Debug\ProjektOgrodnik.csprojAssemblyReference.cache
+C:\Users\l_kub\Downloads\OgrodnikKSz\OgrodnikKSz\ProjektOgrodnik\obj\Debug\ProjektOgrodnik.csproj.CoreCompileInputs.cache
+C:\Users\l_kub\Downloads\OgrodnikKSz\OgrodnikKSz\ProjektOgrodnik\obj\Debug\ProjektOgrodnik.exe
+C:\Users\l_kub\Downloads\OgrodnikKSz\OgrodnikKSz\ProjektOgrodnik\obj\Debug\ProjektOgrodnik.pdb
+c:\Praca\Moje\Repo\OgrodnikKSz\OgrodnikKSz\ProjektOgrodnik\bin\Debug\ProjektOgrodnik.exe.config
+c:\Praca\Moje\Repo\OgrodnikKSz\OgrodnikKSz\ProjektOgrodnik\bin\Debug\ProjektOgrodnik.exe
+c:\Praca\Moje\Repo\OgrodnikKSz\OgrodnikKSz\ProjektOgrodnik\bin\Debug\ProjektOgrodnik.pdb
+c:\Praca\Moje\Repo\OgrodnikKSz\OgrodnikKSz\ProjektOgrodnik\obj\Debug\ProjektOgrodnik.csprojAssemblyReference.cache
+c:\Praca\Moje\Repo\OgrodnikKSz\OgrodnikKSz\ProjektOgrodnik\obj\Debug\ProjektOgrodnik.exe
+c:\Praca\Moje\Repo\OgrodnikKSz\OgrodnikKSz\ProjektOgrodnik\obj\Debug\ProjektOgrodnik.pdb
+C:\Users\Franki\Desktop\Programowanie -- IV sem\Ogrodnik_Kinga_Szedzielarz\bin\Debug\ProjektOgrodnik.exe.config
+C:\Users\Franki\Desktop\Programowanie -- IV sem\Ogrodnik_Kinga_Szedzielarz\bin\Debug\ProjektOgrodnik.exe
+C:\Users\Franki\Desktop\Programowanie -- IV sem\Ogrodnik_Kinga_Szedzielarz\bin\Debug\ProjektOgrodnik.pdb
+C:\Users\Franki\Desktop\Programowanie -- IV sem\Ogrodnik_Kinga_Szedzielarz\obj\Debug\ProjektOgrodnik.csprojAssemblyReference.cache
+C:\Users\Franki\Desktop\Programowanie -- IV sem\Ogrodnik_Kinga_Szedzielarz\obj\Debug\ProjektOgrodnik.exe
+C:\Users\Franki\Desktop\Programowanie -- IV sem\Ogrodnik_Kinga_Szedzielarz\obj\Debug\ProjektOgrodnik.pdb
